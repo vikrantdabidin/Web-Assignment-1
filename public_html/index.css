@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun. 3, 2020, 11:00:10 p.m.
+    Author     : Vikrant Dabidin
+    STUDENT ID: 991590150
+    WEB ASSIGNMENT 1
+*/
+
+<style type="text/css">
+
+body{
+    background-color:powderblue;
+    }
+    
+div.a{
+width:500px;
+border-style:solid;
+border-color:blue;
+border-width:10px;
+text-align:center;
+margin:25px;
+      }
+      
+div.b{
+    width:500px;
+    border-style:solid;
+    border-color:orange;
+    border-width:5px;
+    margin:30px;
+    height:300px;
+      }
+      
+h1{
+font-family: arial;
+font-size:40px;
+color:red;
+   }
+   
+div.c{
+width:500px;
+margin:30px;
+display:flex;
+justify-content:center;
+      }
+            
+.c>div{
+background-color:grey;
+width:50%;
+margin:10px;
+padding:10px;
+font-size:25px;
+text-align:center;
+       }
+            
+div.d{
+width:500px;
+margin:30px;
+display:flex;
+justify-content:center;
+}
+            
+.d>div{
+background-color:pink;
+width:50%;
+margin:5px;
+padding:5px;
+font-size:15px;
+text-align:center;
+       }
+
+</style>
+
